@@ -16,7 +16,7 @@ public class A2 {
             char ch = str.charAt(i);
 
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
-                ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+                    ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
 
                 result += 'z';
                 found = true;

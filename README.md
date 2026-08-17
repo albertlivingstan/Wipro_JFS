@@ -29,6 +29,8 @@
 - [🚀 Mini Projects](#-mini-projects)
   - [Java Fundamentals — Employee Payroll](#-java-fundamentals--employee-payroll)
   - [Inheritance — Video Store](#-inheritance--video-store)
+- [📝 Abstraction (Exp 3)](#-abstraction-exp-3)
+- [💾 I/O Streams & Collections (Exp 4)](#-io-streams--collections-exp-4)
 - [⚙️ How to Run](#️-how-to-run)
 - [👤 Author](#-author)
 
@@ -46,9 +48,15 @@ Wipro_JFS/
 │   ├── L4/   ← Strings & Methods
 │   └── L5/   ← Advanced Logic
 │
-└── 🚀 Mini_Projects/
-    ├── Java_Fundamentals/   ← Employee Payroll System
-    └── Inheritance/         ← Video Store Management
+├── 🚀 Mini_Projects/
+│   ├── Java_Fundamentals/   ← Employee Payroll System
+│   └── Inheritance/         ← Video Store Management
+│
+├── 📝 Abstraction_exp3/     ← Abstract Classes, Interfaces, Exception Handling & Packages
+│
+└── 💾 InputOutputStreams_exp-4/
+    ├── inputoutput/         ← I/O Streams
+    └── javaCollections/     ← Java Collections Framework
 ```
 
 ---
@@ -310,6 +318,33 @@ java Inheritance.VideoLauncher
 </details>
 
 🔗 [View Source — Video.java](Mini_Projects/Inheritance/Video.java) | [VideoStore.java](Mini_Projects/Inheritance/VideoStore.java) | [VideoLauncher.java](Mini_Projects/Inheritance/VideoLauncher.java)
+
+---
+
+## 📝 Abstraction (Exp 3)
+
+> 📂 `Abstraction_exp3/`
+
+Explorations in Java abstraction, interfaces, exception handling, and wrapper classes.
+
+**Topics Covered:**
+- 📄 **[Abstract class.txt](Abstraction_exp3/Abstract%20class.txt)**
+- 📄 **[Interfaces.txt](Abstraction_exp3/Interfaces.txt)**
+- 📄 **[Exception-Handling.txt](Abstraction_exp3/Exception-Handling.txt)**
+- 📄 **[Wrapper-Class.txt](Abstraction_exp3/Wrapper-Class.txt)**
+- 📄 **[packages.txt](Abstraction_exp3/packages.txt)**
+
+---
+
+## 💾 I/O Streams & Collections (Exp 4)
+
+> 📂 `InputOutputStreams_exp-4/`
+
+Working with File I/O streams and the Java Collections Framework (ArrayList, Set, Map).
+
+**Sub-modules:**
+- 📁 **[inputoutput/](InputOutputStreams_exp-4/inputoutput/)** — I/O fundamentals like `EmployeeManagementSystem.java`.
+- 📁 **[javaCollections/](InputOutputStreams_exp-4/javaCollections/)** — Collections tasks like grouping cards, employee registers, and box operations.
 
 ---
 
